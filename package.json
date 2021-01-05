@@ -1,0 +1,19 @@
+{
+  "name": "adonis-template",
+  "version": "1.0.0",
+  "description": "Often we cannot rely on formatted and written tutorial to do our project. We have to learn to research, explore and read documentation by yourself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabelsueh/adonis-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabelsueh/adonis-template/issues"
+  },
+  "homepage": "https://github.com/mabelsueh/adonis-template#readme"
+}
